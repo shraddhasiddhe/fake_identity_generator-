@@ -1,0 +1,37 @@
+[
+    {
+        "name": "shubham mehat",
+        "job": "Yogateacher",
+        "location": "pune",
+        "age": 28,
+        "email": "shubham.mehat61@gmail.com"
+    },
+    {
+        "name": "shrayu siddhe",
+        "job": "Civil",
+        "location": "pune",
+        "age": 28,
+        "email": "shrayu.siddhe83@gmail.com"
+    },
+    {
+        "name": "shrayu mehat",
+        "job": "Yogateacher",
+        "location": "pune",
+        "age": 34,
+        "email": "shrayu.mehat97@gmail.com"
+    },
+    {
+        "name": "mohit siddhe",
+        "job": "AI engineer",
+        "location": "pune",
+        "age": 35,
+        "email": "mohit.siddhe55@gmail.com"
+    },
+    {
+        "name": "shraddha mehat",
+        "job": "Yogateacher",
+        "location": "nasik",
+        "age": 27,
+        "email": "shraddha.mehat60@gmail.com"
+    }
+]
